@@ -63,7 +63,7 @@ It simply makes AI use visible.
 
 ## Want to use this label?
 
-If you want to use these labels on your own work, [click here for the creator guide](https://github.com/BeepBeep84/ai-disclosure/for-creators).
+If you want to use these labels on your own work, [click here for the creator guide](https://github.com/BeepBeep84/ai-disclosure/blob/main/for-creators.md).
 
 ## Goal
 
